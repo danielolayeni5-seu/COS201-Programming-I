@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Okpala Geoffrey Ifesinachi
-- Matriculation Number: 25/17932
-- Department: Cyber Security
+- Name: Oladimeji Oluwatomiwa daniel
+- Matriculation Number: 25/16714
+- Department: Computer Science
 - Course: COS 201
 - Week: 2
 

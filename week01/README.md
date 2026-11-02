@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Okpala Geoffrey Ifesinachi
-- Matriculation Number: 25/17932
-- Department: Cyber Security
+- Name: Oladimeji Oluwatomiwa daniel
+- Matriculation Number: 25/16714
+- Department: Computer Science
 - Course: COS 201
 
 ### Practical Exercise
