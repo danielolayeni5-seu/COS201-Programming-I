@@ -2,8 +2,8 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Oladimeji Oluwatomiwa daniel
-- Matriculation Number: 25/16714
+- Name: Olayeni Daniel Oluwaseun
+- Matriculation Number: 25/17978
 - Department: Computer Science
 - Course: COS 201
 
