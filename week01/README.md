@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Nwafor Fortunate Chiagoziem
-- Matriculation Number: 25/17304
-- Department: Computer Science
+- Name: Okpala Geoffrey Ifesinachi
+- Matriculation Number: 25/17932
+- Department: Cyber Security
 - Course: COS 201
 
 ### Practical Exercise
